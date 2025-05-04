@@ -5,6 +5,7 @@ Performance stats (latency, throughput, token usage)
 NLI entailment scoring (logical consistency)
 Toxicity detection with visual indicators
 '''
+
 '''Model Performance Metrics:
 Accuracy: Shows how many times the model’s response matches the expected response.
 F1 Score: Measures the harmonic mean of precision and recall.
